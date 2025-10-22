@@ -18,4 +18,3 @@ python setup_attn_omp.py build_ext --inplace
 sbatch slurm/dblp_omp.slurm
 
 
-<img width="1016" height="564" alt="Screenshot 2025-08-10 at 4 04 13 PM" src="https://github.com/user-attachments/assets/64e92dcb-c5ee-4cf2-88dc-c7bad30b6532" />
