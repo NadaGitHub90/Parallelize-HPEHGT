@@ -15,6 +15,6 @@ cd HPEHGT/cpp
 python setup_attn_omp.py build_ext --inplace
 
 # 2) Run DBLP with OpenMP via Slurm (edit cpus-per-task to sweep threads)
-sbatch slurm/dblp_omp.slurm
+
 
 
